@@ -1114,7 +1114,7 @@ section.lazy-placeholder:after {
 .cid-qTkAaeaxX5 {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-color: #2e2e2e;
+  background-color: #ffffff;
 }
 @media (max-width: 767px) {
   .cid-qTkAaeaxX5 .content {
@@ -1177,4 +1177,10 @@ section.lazy-placeholder:after {
     justify-content: center;
     -webkit-justify-content: center;
   }
+}
+.cid-qTkAaeaxX5 P {
+  color: #48153b;
+}
+.cid-qTkAaeaxX5 H5 {
+  color: #48153b;
 }
