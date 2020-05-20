@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Grace Prates",
-    "currentPage": "page2.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -67,7 +67,7 @@
       "settings": {
         "main": true,
         "title": "Home",
-        "meta_descr": "",
+        "meta_descr": "Grace Prates Cursos",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
